@@ -10,7 +10,5 @@ def request(url, timestamp):
 url = input("URL: ")
 timestamp = input("Timestamp: ")
 
-request(url, timestamp);
-
-
+request(url, timestamp)
 
