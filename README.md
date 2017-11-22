@@ -1,4 +1,4 @@
-# Studienarbeit_Web-Archäologie
+# Studienarbeit Web-Archäologie
 
 Ziel der Arbeit ist die Erstellung einer ersten historischen Perspektive auf das WWW: Wie hat sich das Web in technischer Hinsicht über die Jahre entwickelt? 
 Es soll untersucht werden, wie sich ausgewählte Technologien über die Jahre verbreitet oder auch wieder zurück gezogen haben.
