@@ -1,5 +1,6 @@
 # Studienarbeit Web-Archäologie
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0c7693e6704f46d892afe25b678d1c5b)](https://www.codacy.com/app/Crocy1104/Studienarbeit_Web-Archaeologie?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crocy1104/Studienarbeit_Web-Archaeologie&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/0c7693e6704f46d892afe25b678d1c5b)](https://www.codacy.com/app/Crocy1104/Studienarbeit_Web-Archaeologie?utm_source=github.com&utm_medium=referral&utm_content=Crocy1104/Studienarbeit_Web-Archaeologie&utm_campaign=Badge_Coverage)
 
 Ziel der Arbeit ist die Erstellung einer ersten historischen Perspektive auf das WWW: Wie hat sich das Web in technischer Hinsicht über die Jahre entwickelt? 
