@@ -6,4 +6,4 @@ amazon.de
 ebay.de
 wikipedia.org
 vk.com
-ebay-kleinanzeige.de
+ebay-kleinanzeigen.de
